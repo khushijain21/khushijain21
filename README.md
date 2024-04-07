@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Contributing to Observability projects @VictoriaMetrics @Grafana @OpeneTelemetry
+- 🔭 I’m currently contributing in Observability space at @VictoriaMetrics @Grafana @OpeneTelemetry
 - LFX Openetlemetry Mentee '24
 - You can support my dev work by [buying me a coffee](https://www.buymeacoffee.com/khushijain21)
 - 😄 Pronouns: she/her
