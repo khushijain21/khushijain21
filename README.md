@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Contributing to Observability projects @VictoriaMetrics @Grafana @OpeneTelemetry
+- LFX Openetlemetry Mentee '24
+- You can support my dev work by buying me a coffee https://www.buymeacoffee.com/khushijain21
+- 😄 Pronouns: she/her
+
 <!--
 **khushijain21/khushijain21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
