@@ -2,7 +2,7 @@
 
 - 🔭 Contributing to Observability projects @VictoriaMetrics @Grafana @OpeneTelemetry
 - LFX Openetlemetry Mentee '24
-- You can support my dev work by buying me a coffee https://www.buymeacoffee.com/khushijain21
+- You can support my dev work by [buying me a coffee](https://www.buymeacoffee.com/khushijain21)
 - 😄 Pronouns: she/her
 
 <!--
